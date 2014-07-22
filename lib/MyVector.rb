@@ -13,4 +13,9 @@ class MyVector < Vector
     }
     length
   end
+
+  def <<(num)
+    self[2] = num
+    self
+  end
 end
