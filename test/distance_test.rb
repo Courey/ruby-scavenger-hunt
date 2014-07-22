@@ -1,4 +1,4 @@
-require 'test_helper'
+require 'distance'
 require 'minitest/autorun'
 
 class Whatever < MiniTest::Unit::TestCase
